@@ -1,0 +1,134 @@
+{
+  "Astra": {
+    "Ability 1": "Gravity Well",
+    "Ability 2": "Nova Pulse",
+    "Ability 3": "Nebula",
+    "Ultimate": "Dissipate"
+  },
+  "Brimstone": {
+    "Ability 1": "Incendiary",
+    "Ability 2": "Stim Beacon",
+    "Ability 3": "Sky Smoke",
+    "Ultimate": "Orbital Strike"
+  },
+  "Breach": {
+    "Ability 1": "Aftershock",
+    "Ability 2": "Flashpoint",
+    "Ability 3": "Fault Lines",
+    "Ultimate": "Rolling Thunder"
+  },
+  "Chamber": {
+    "Ability 1": "Trademark",
+    "Ability 2": "Headhunter",
+    "Ability 3": "Rendezvous",
+    "Ultimate": "Tour de Force"
+  },
+  "Cypher": {
+    "Ability 1": "Trapwire",
+    "Ability 2": "Cyber Cage",
+    "Ability 3": "Spycam",
+    "Ultimate": "Neural Theft"
+  },
+  "Deadlock": {
+    "Ability 1": "GravNet",
+    "Ability 2": "Sonic Sensor",
+    "Ability 3": "Barrier Mesh",
+    "Ultimate": "Annihilation"
+  },
+  "Fade": {
+    "Ability 1": "Seize",
+    "Ability 2": "Prowler",
+    "Ability 3": "Haunt",
+    "Ultimate": "Nightfall"
+  },
+  "Gekko": {
+    "Ability 1": "Wingman",
+    "Ability 2": "Most Pit",
+    "Ability 3": "Dizzy",
+    "Ultimate": "Thrash"
+  },
+  "Harbor": {
+    "Ability 1": "High Tide",
+    "Ability 2": "Cove",
+    "Ability 3": "Cascade",
+    "Ultimate": "Reckoning"
+  },
+  "Jett": {
+    "Ability 1": "Cloudburst",
+    "Ability 2": "Updraft",
+    "Ability 3": "Tailwind",
+    "Ultimate": "Blade Storm"
+  },
+  "KAY/O": {
+    "Ability 1": "ZERO/point",
+    "Ability 2": "FLASH/drive",
+    "Ability 3": "FRAG/ment",
+    "Ultimate": "NUll/cmd"
+  },
+  "Killjoy": {
+    "Ability 1": "Alarmbot",
+    "Ability 2": "Turret",
+    "Ability 3": "Nanoswarm",
+    "Ultimate": "Lockdown"
+  },
+  "Neon": {
+    "Ability 1": "Hgih Gear",
+    "Ability 2": "Relay Bolt",
+    "Ability 3": "Fast Lane",
+    "Ultimate": "Overdrive"
+  },
+  "Omen": {
+    "Ability 1": "Paranoia",
+    "Ability 2": "Shadow Walk",
+    "Ability 3": "Dark Cover",
+    "Ultimate": "From the Shadows"
+  },
+  "Phoenix": {
+    "Ability 1": "Hot Hands",
+    "Ability 2": "Blaze",
+    "Ability 3": "Curveball",
+    "Ultimate": "Run it Back"
+  },
+  "Raze": {
+    "Ability 1": "Blast Pack",
+    "Ability 2": "Paint Shells",
+    "Ability 3": "Boom Bot",
+    "Ultimate": "Showstopper"
+  },
+  "Reyna": {
+    "Ability 1": "Dismiss",
+    "Ability 2": "Devour",
+    "Ability 3": "Leer",
+    "Ultimate": "Empress"
+  },
+  "Sage": {
+    "Ability 1": "Slow Orb",
+    "Ability 2": "Barrier Orb",
+    "Ability 3": "Healing Orb",
+    "Ultimate": "Resurrection"
+  },
+  "Skye": {
+    "Ability 1": "Trailblazer",
+    "Ability 2": "Guilding Light",
+    "Ability 3": "Regrowth",
+    "Ultimate": "Seekers"
+  },
+  "Sova": {
+    "Ability 1": "Shock Bolt",
+    "Ability 2": "Owl Drone",
+    "Ability 3": "Recon Bolt",
+    "Ultimate": "Hunter's Fury"
+  },
+  "Viper": {
+    "Ability 1": "Snakebite",
+    "Ability 2": "Poison Cloud",
+    "Ability 3": "Toxic Screen",
+    "Ultimate": "Viper's Pit"
+  },
+  "Yoru": {
+    "Ability 1": "Fakeout",
+    "Ability 2": "Gatecrash",
+    "Ability 3": "Blindside",
+    "Ultimate": "Dimensional Drift"
+  }
+}
