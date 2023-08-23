@@ -1,0 +1,14 @@
+{
+  "abilities": {
+    "height_percentage": 15,
+    "width_percentage": 29
+  },
+  "kill-feed": {
+    "height_percentage": 50,
+    "width_percentage": 25
+  },
+  "map": {
+    "height_percentage": 40,
+    "width_percentage": 30
+  }
+}
