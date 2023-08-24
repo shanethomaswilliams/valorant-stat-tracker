@@ -1,14 +1,17 @@
 {
   "abilities": {
-    "height_percentage": 15,
-    "width_percentage": 29
+    "height_percentages": [85, 100],
+    "width_percentages": [35.5, 64.5],
+    "output_folder": "./ability-data/"
   },
   "kill-feed": {
-    "height_percentage": 50,
-    "width_percentage": 25
+    "height_percentage": [0, 50],
+    "width_percentage": [75, 100],
+    "output_folder": "./kill-feed-data/"
   },
   "map": {
-    "height_percentage": 40,
-    "width_percentage": 30
+    "height_percentage": [0, 40],
+    "width_percentage": [0, 30],
+    "output_folder": "./map-data/"
   }
 }
