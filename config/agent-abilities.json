@@ -6,9 +6,9 @@
     "Ultimate": "Dissipate"
   },
   "Brimstone": {
-    "Ability 1": "Incendiary",
-    "Ability 2": "Stim Beacon",
-    "Ability 3": "Sky Smoke",
+    "Ability 1": ["Stim Beacon", 2],
+    "Ability 2": ["Incendiary", 1],
+    "Ability 3": ["Sky Smoke", 3],
     "Ultimate": "Orbital Strike"
   },
   "Breach": {
@@ -84,9 +84,9 @@
     "Ultimate": "From the Shadows"
   },
   "Phoenix": {
-    "Ability 1": "Hot Hands",
-    "Ability 2": "Blaze",
-    "Ability 3": "Curveball",
+    "Ability 1": ["Curveball", 2],
+    "Ability 2": ["Blaze", 1],
+    "Ability 3": ["Hot Hands", 1],
     "Ultimate": "Run it Back"
   },
   "Raze": {
