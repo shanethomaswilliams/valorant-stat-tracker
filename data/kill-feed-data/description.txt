@@ -1,1 +1,0 @@
-This is the data that describes kill feed, just describes what happens to chosen character.
