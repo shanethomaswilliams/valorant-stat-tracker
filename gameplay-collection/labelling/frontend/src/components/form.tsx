@@ -5,11 +5,12 @@ interface FormProps {
 }
 
 const Form = ({ onSubmit }: FormProps) => {
-  const [url, setUrl] = useState('');
+  const [url, setUrl] = useState("");
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    onSubmit(url);
+    const trimmedUrl = url.trim();
+    onSubmit(trimmedUrl);
   };
 
   return (
