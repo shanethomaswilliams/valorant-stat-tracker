@@ -1,4 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
 *.jpg
+*.mp4
+*.mov
 package-lock.json
